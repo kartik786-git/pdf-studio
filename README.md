@@ -6,7 +6,7 @@
 
 ### ▶️ Complete Build Video
 
-[![Build Video](https://img.youtube.com/vi/ljgt-koYgB0/0.jpg)](https://www.youtube.com/watch?v=ljgt-koYgB0)
+[![Build Video](https://img.youtube.com/vi/7OzG8aSWeFU/0.jpg)](https://www.youtube.com/watch?v=7OzG8aSWeFU)
 
 *Click to watch the full video of building this app from scratch.*
 
