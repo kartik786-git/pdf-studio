@@ -1,3 +1,21 @@
+## 📺 Watch It in Action
+
+> See this app being built and used step-by-step on **Real World Devs**!
+
+<div align="center">
+
+### ▶️ Complete Build Video
+
+[![Build Video](https://img.youtube.com/vi/ljgt-koYgB0/0.jpg)](https://www.youtube.com/watch?v=ljgt-koYgB0)
+
+*Click to watch the full video of building this app from scratch.*
+
+### 🎬 Real World Devs — YouTube Channel
+
+[![YouTube](https://img.shields.io/badge/Subscribe-RealWorldDevs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@realworlddevs)
+
+</div>
+
 # PDF Studio — Offline PDF Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
